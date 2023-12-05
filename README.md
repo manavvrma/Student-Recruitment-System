@@ -21,8 +21,4 @@ The **Student Recruitment System** is a comprehensive solution for educational i
 - Provide a user-friendly and modern platform for job applications.
 - Easily tailor the system to your institution's unique requirements.
 
-## Getting Started
-
-1. Clone the repository to your local environment.
-2. Run on Google Colab 
 
